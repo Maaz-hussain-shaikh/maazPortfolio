@@ -6,7 +6,7 @@ import Firstpage from './component/mainpage/Firstpage';
 import Footer from "./component/mainpage/Footer"
 import Aboutpage from './component/About/Aboutpage';
 import Projactpage from './component/Project/Projactpage';
-import Contactform from './component/Contact/Contactform';
+
 import Hirepage from './component/Contact/Hirepage';
 function App() {
 
