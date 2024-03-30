@@ -19,8 +19,8 @@ const Header = () => {
 
                     <p>If you are looking for a passionate front-end developer who is dedicated to creating beautiful and functional websites, then look no further. Explore my portfolio and discover how I can bring your project to life.</p>
                     <div className="hero_btn d-flex justify-content-center">
-                        <a href="tel:+91 8982001240" className="" aria-label="Explore Our work" rel="noopener">Let’s Work Together</a>
-                        <a href="https://drive.google.com/file/d/1VecOSZIbYtALY_ZEF5ooA_zQXvNqDmIn/view?usp=sharing" className="resume_btn" aria-label="Explore Our work"  rel="noreferrer" target='_blank'>View Resume</a>
+                        <a href="tel:+91 8982001240" className="" aria-label="Resume" rel="noopener">Let’s Work Together</a>
+                        <a href="https://drive.google.com/file/d/16AZe2AU5bHsGAZlhN8UomHf3bKGQod_R/view?usp=sharing" className="resume_btn" aria-label="Resume"  rel="noreferrer" target='_blank'>View Resume</a>
                     </div>
                     <Socialtap/>
                 </div>
@@ -30,14 +30,14 @@ const Header = () => {
 
                 <div className="containerr  mt-4  ">
                     <div className="profile ">
-                        <img src="imgs\mobilebg1.jpg" alt="Your Profile" />
+                        <img src="imgs\Aboutimg.png" alt="Your Profile" />
                     </div>
                     <h1>Maaz Hussain</h1>
                     <p>If you are looking for a passionate front-end developer who is dedicated to creating beautiful and functional websites, then look no further. Explore my portfolio and discover how I can bring your project to life.</p>
 
                     <div className="hero_btn d-flex justify-content-center">
-                        <a href="tel:8982001240" className="" aria-label="Explore Our work" rel="noopener">Let’s Work Together</a>
-                        <a href="https://drive.google.com/file/d/1VecOSZIbYtALY_ZEF5ooA_zQXvNqDmIn/view?usp=sharing" className="resume_btn" aria-label="Explore Our work" rel="noopener" >View Resume</a>
+                        <a href="tel:8982001240" className="" aria-label="Resume" rel="noopener">Let’s Work Together</a>
+                        <a href="https://drive.google.com/file/d/16AZe2AU5bHsGAZlhN8UomHf3bKGQod_R/view?usp=sharing" className="resume_btn" aria-label="Resume" rel="noopener" >View Resume</a>
                     </div>
 
                     <Socialtap/>

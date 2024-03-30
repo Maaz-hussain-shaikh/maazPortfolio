@@ -13,7 +13,7 @@ function Keys() {
                                         <img src="imgs\Logo\worklogo.png" alt="counter" />
                                     </div>
                                     <div className="csi_info">
-                                        <h2>6+ Months </h2>
+                                        <h2>9+ Months </h2>
                                         <h2>Experience</h2>
                                     </div>
                                 </div>
